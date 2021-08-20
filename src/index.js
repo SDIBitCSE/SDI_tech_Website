@@ -1,17 +1,27 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import App from './components/App';
+//npm-modules
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+// let today = new Date();
+// document.getElementById("footer-date").innerHTML = today.getDate();
+// document.getElementById("footer-month").innerHTML = " /" + (today.getMonth() + 1);
+// //Date-feature related
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+
+// setTimeout(function () {
+//   $(".title2").hide();
+// }, 1);
+// //Hiding second component
+// function handleClick(key) {
+//   $(".combine").slideUp(1000);
+
+//   setTimeout(function () {
+//     $(".title2").toggle(0, "linear");
+//   }, 0);
+
+//   // document.getElementsByClassName("title").innerHTML = "Become a Member"
+// }
+// //Animation related
+
+ReactDOM.render( < App / > , document.getElementById('root'));

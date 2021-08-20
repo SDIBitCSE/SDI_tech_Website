@@ -1,0 +1,133 @@
+.nav-link {
+    color: aliceblue !important;
+    font-size: 1.5rem;
+}
+
+.navbar-brand {
+    margin-left: 2%;
+}
+
+#navbarNav {
+    margin-right: 5%;
+    justify-content: flex-end;
+}
+
+.body {
+    background-image: url('img/back.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: aliceblue !important;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 10%;
+    /* Height of the footer */
+    background: #6cf;
+    margin-right: 5%;
+}
+
+#date-section {
+    margin-left: 2%;
+    
+}
+
+#footer-date {
+    font-size: 250%;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#footer-month {
+    font-size: 100%;
+    font-family: 'Montserrat', sans-serif;
+    color: grey;
+}
+
+
+.inline {
+    display: inline-block;
+    margin: 1rem;
+    margin-left: 2%;
+    margin-top: 4%;
+}
+
+.title {
+    color: white;
+    font-size: 4.5rem;
+}
+
+.wrap h2 {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.wrap {
+    display: table;
+    height: 6.25rem;
+    width: 10rem;
+    padding: 0.63rem;
+}
+
+.wrap h1 {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.sub {
+    display: block;
+    color: darkgray;
+}
+
+.arrow-down {
+    text-align: center;
+    padding-right: 15%;
+    margin-top: 10%;
+}
+
+.arrow-down:hover {
+    opacity: 0.6;
+}
+
+.insta,.twitter,.linkedin{
+    width: 3.125rem;
+    height: 3.125rem;
+    background-size: 100%;
+    background-position:  center;
+}
+.insta{
+
+    background-image: url('img/static.gif');
+    float:left;
+
+}
+.insta:hover {
+    background-image: url('img/insta.gif');
+}
+.twitter{
+
+    background-image: url('img/static2.gif');
+    float:right;
+
+}
+.twitter:hover{
+    background-image: url('img/twitter.gif');
+}
+.linkedin{
+
+  background-image: url('img/static3.gif');
+  display: inline-block;
+  margin:0 auto;
+
+}
+.linkedin:hover{
+  background-image: url('img/linkedin.gif');
+}
+
+.socials{
+    width: 17%;
+    text-align: center;
+  }
