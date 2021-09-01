@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SDI_tech_Website/static/css/main.2c7fdf5a.chunk.css",
+    "main.js": "/SDI_tech_Website/static/js/main.c2c80125.chunk.js",
+    "main.js.map": "/SDI_tech_Website/static/js/main.c2c80125.chunk.js.map",
+    "runtime-main.js": "/SDI_tech_Website/static/js/runtime-main.a6e9ce84.js",
+    "runtime-main.js.map": "/SDI_tech_Website/static/js/runtime-main.a6e9ce84.js.map",
+    "static/js/2.9d6c5c6c.chunk.js": "/SDI_tech_Website/static/js/2.9d6c5c6c.chunk.js",
+    "static/js/2.9d6c5c6c.chunk.js.map": "/SDI_tech_Website/static/js/2.9d6c5c6c.chunk.js.map",
+    "index.html": "/SDI_tech_Website/index.html",
+    "static/css/main.2c7fdf5a.chunk.css.map": "/SDI_tech_Website/static/css/main.2c7fdf5a.chunk.css.map",
+    "static/js/2.9d6c5c6c.chunk.js.LICENSE.txt": "/SDI_tech_Website/static/js/2.9d6c5c6c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/SDI_tech_Website/static/media/register.c6786569.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6e9ce84.js",
+    "static/js/2.9d6c5c6c.chunk.js",
+    "static/css/main.2c7fdf5a.chunk.css",
+    "static/js/main.c2c80125.chunk.js"
+  ]
+}
