@@ -1,0 +1,31 @@
+.bg_image_home{
+    background-image: url('back.png');
+    background-size: cover;
+    height: 100vh;
+  }
+.bg_image_contact{
+    background-image: url('contact.png');
+    background-size: cover;
+    height: 100vh;
+  }
+  .bg_image_about{
+    background-image: url('contact.png');
+    background-size: cover;
+    height: 100vh;
+  }
+  .bg_image_register{
+    background-image: url('register.png');
+    background-size: cover;
+    height: 100vh;
+  }
+  .bg_image_team{
+    background-image: url('contact.png');
+    background-size: cover;
+    height: 100vh;
+  }
+  .bg_image_events{
+    background-image: url('contact.png');
+    background-size: cover;
+    height: 100vh;
+  }
+ 
